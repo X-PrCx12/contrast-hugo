@@ -1,0 +1,15 @@
+title = "Hivenze Blog"
+author = "Pasha Aditya Rahman"
+theme = "conz hive"
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "My Blogs HIVENZE"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
